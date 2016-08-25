@@ -11,7 +11,7 @@
 <!-- UItoTop plugin -->
 <script src="http://wordpress/wp-content/themes/mytheme/js/jquery.ui.totop.js" type="text/javascript"></script>
 <!-- Starting the plugin -->
-<title>Клиника сной</title>
+<title>Тайтл</title>
 <meta http-equiv="Content-Type" content="text/xml; charset=UTF-8" />
 <link rel="stylesheet" type="text/css" href="http://wordpress/wp-content/themes/mytheme/style.css">
 
